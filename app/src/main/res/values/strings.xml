@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PremierProjetOntomantics</string>
+    <string name="txvTitle">Hello world ontomantics :)</string>
+    <string name="edtMessageHint">Tapez votre texte ici </string>
+    <string name="btnAdd">Ajouter</string>
+    <string name="alertdialog_positive">ok</string>
+    <string name="alertdialog_negative">nok</string>
+    <string name="toast_message">ahahaha j\'ai fait un truc</string>
+    <string name="snack_message">Are you fucking sure ?o?</string>
+    <string name="snack_action">undo</string>
+    <string name="menuitem_flush">flush</string>
+</resources>
