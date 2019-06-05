@@ -3,7 +3,7 @@ package com.android2ee.formation.intra.ontomantics.premierprojet.view;
 import android.annotation.TargetApi;
 import android.os.Build;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 
